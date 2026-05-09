@@ -1,4 +1,4 @@
-
+Enhance KeePassXC for macOS with professional KeePassXC for macOS Plugin | privacy-protection + vulnerability-scanner, the #1 plugin. Includes privacy-protection and
 
 
 
